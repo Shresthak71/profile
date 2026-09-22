@@ -1,3 +1,4 @@
+Profile verification: Sept-22, 2026
 # 👋 Hi, I'm an IT Engineer & Full-Stack Developer
 
 I design and develop **full-stack applications, AI-powered systems, cloud/on-premise infrastructure, IoT solutions, networking platforms, and government information systems**.
